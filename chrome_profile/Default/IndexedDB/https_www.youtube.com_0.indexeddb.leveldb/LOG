@@ -1,0 +1,6 @@
+2026/10/22-07:26:29.665 1e5b42 Reusing MANIFEST /Users/santoshkumar/personal-task-agent/chrome_profile/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/22-07:26:29.665 1e5b42 Recovering log #3
+2026/10/22-07:26:29.671 1e5b42 Reusing old log /Users/santoshkumar/personal-task-agent/chrome_profile/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2026/10/22-07:31:55.069 1e5b43 Level-0 table #5: started
+2026/10/22-07:31:55.085 1e5b43 Level-0 table #5: 2029803 bytes OK
+2026/10/22-07:31:55.087 1e5b43 Delete type=0 #3
